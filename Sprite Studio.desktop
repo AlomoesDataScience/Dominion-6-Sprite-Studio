@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sprite Studio
+Comment=Dominions 6 sprite editor
+Exec="/home/alomoes/Desktop/AI Development/Games/Fantasy Strategy/Dominions 6/spritestudio/SpriteStudio"
+Icon=/home/alomoes/Desktop/AI Development/Games/Fantasy Strategy/Dominions 6/spritestudio/icon.png
+Path=/home/alomoes/Desktop/AI Development/Games/Fantasy Strategy/Dominions 6/spritestudio
+Terminal=false
+Categories=Graphics;Game;
